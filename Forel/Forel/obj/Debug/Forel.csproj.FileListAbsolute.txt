@@ -1,0 +1,18 @@
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Forel\Forel\bin\Debug\Forel.exe.config
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Forel\Forel\bin\Debug\Forel.exe
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Forel\Forel\bin\Debug\Forel.pdb
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Forel\Forel\obj\Debug\Forel.csprojResolveAssemblyReference.cache
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Forel\Forel\obj\Debug\Forel.exe
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Forel\Forel\obj\Debug\Forel.pdb
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Forel\Forel\bin\Debug\Forel.exe.config
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Forel\Forel\obj\Debug\Forel.exe
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Forel\Forel\obj\Debug\Forel.pdb
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Forel\Forel\bin\Debug\Forel.exe
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Forel\Forel\bin\Debug\Forel.pdb
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Forel\Forel\obj\Debug\Forel.csprojResolveAssemblyReference.cache
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\Forel\bin\Debug\Forel.exe.config
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\Forel\obj\Debug\Forel.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\Forel\obj\Debug\Forel.pdb
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\Forel\bin\Debug\Forel.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\Forel\bin\Debug\Forel.pdb
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\Forel\obj\Debug\Forel.csprojResolveAssemblyReference.cache

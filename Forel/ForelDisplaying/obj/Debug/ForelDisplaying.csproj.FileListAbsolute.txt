@@ -1,0 +1,15 @@
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\bin\Debug\ForelDisplaying.exe.config
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\bin\Debug\ForelDisplaying.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\bin\Debug\ForelDisplaying.pdb
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\ForelDisplaying.csprojResolveAssemblyReference.cache
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\MainWindow.baml
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\MainWindow.g.cs
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\App.g.cs
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\ForelDisplaying_MarkupCompile.cache
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\ForelDisplaying.g.resources
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\ForelDisplaying.Properties.Resources.resources
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\ForelDisplaying.csproj.GenerateResource.Cache
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\ForelDisplaying.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\obj\Debug\ForelDisplaying.pdb
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\bin\Debug\Forel.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Forel\ForelDisplaying\bin\Debug\Forel.pdb
